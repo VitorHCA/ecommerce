@@ -21,7 +21,7 @@
 							<a class="caption button-radius" href="#"><span class="icon"></span>Comprar</a>
 						</div>
 					</li>
-					<li><img src="img/h4-slide3.png" alt="Slide">
+					<li><img src="res/site/img/h4-slide3.png" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
 								Apple <span class="primary">Store <strong>Ipod</strong></span>
